@@ -1,2 +1,1 @@
-#dispaly the output
-Print ("New Python file")
+print("Hello world")
